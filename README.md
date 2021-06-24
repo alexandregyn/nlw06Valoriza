@@ -2,6 +2,9 @@
 
 # Comandos
 
+### - Para iniciar o typeScript
+- npx -p typescript tsc --init
+
 ### - Para criar Migrations
 - npm rum typeorm migration:create -- -n CreateUsers
 
